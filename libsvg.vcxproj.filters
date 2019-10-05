@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{bcaba4de-bb4e-4052-8727-07239fcbc377}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9b6a7b09-ed0c-4b33-8db5-42648de5ba56}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\svg_pattern.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\svg_style.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\svg_transform.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\svg_text.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\svg_parser.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\svg_element.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\svg_parser_libxml.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\svg_path.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\svg_image.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\svg_gradient.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\svg_paint.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\svg_group.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\svg.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\svg_attribute.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\svg_ascii.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\svg_hash.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\svg_str.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\svg_color.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\svg_length.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\svg_version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\svgint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\svg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\svg_ascii.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\svg_hash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\svglib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
